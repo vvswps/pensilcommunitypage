@@ -1,0 +1,324 @@
+.navContainerDiv,
+.rectangleDiv {
+  position: absolute;
+}
+.rectangleDiv {
+  top: 876px;
+  left: 398px;
+  background-color: #d4e9fe;
+  width: 1002px;
+  height: 124px;
+}
+.navContainerDiv {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+}
+.pensilLogo1 {
+  position: absolute;
+  height: 43.18%;
+  width: 15.69%;
+  top: 28.41%;
+  right: 42.15%;
+  bottom: 28.41%;
+  left: 42.15%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: hidden;
+}
+.homeDiv {
+  position: absolute;
+  height: 23.3%;
+  width: 5.83%;
+  top: 36.36%;
+  right: 91.46%;
+  bottom: 40.34%;
+  left: 2.71%;
+  color: #2563ee;
+  display: inline-block;
+}
+.activeUnderlineIcon {
+  position: absolute;
+  height: 1.99%;
+  width: 5.97%;
+  top: 65.48%;
+  right: 91.56%;
+  bottom: 32.53%;
+  left: 2.47%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.pricingDiv,
+.resourcesDiv {
+  position: absolute;
+  height: 23.3%;
+  top: 36.36%;
+  bottom: 40.34%;
+  display: inline-block;
+}
+.resourcesDiv {
+  width: 10.28%;
+  right: 80.14%;
+  left: 9.58%;
+}
+.pricingDiv {
+  width: 6.94%;
+  right: 72.15%;
+  left: 20.9%;
+}
+.inputStandardTextField {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 43px;
+  left: 1005px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 18px;
+  left: 1300px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.findP {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.blankLineP {
+  margin: 0;
+}
+.findYourDiv {
+  top: 86px;
+  letter-spacing: 0.4em;
+  width: 259px;
+  height: 182px;
+}
+.commUnityDiv,
+.findYourDiv,
+.fromOpenDiscussionToGated {
+  position: absolute;
+  left: 36px;
+  display: inline-block;
+}
+.commUnityDiv {
+  top: 308px;
+  font-size: 60px;
+  letter-spacing: 0.1em;
+  color: #0445fe;
+  width: 253px;
+  height: 149px;
+}
+.fromOpenDiscussionToGated {
+  top: 649px;
+  font-size: 24px;
+  font-family: Inter;
+  width: 790px;
+  height: 90px;
+}
+.frameDiv,
+.joinButton {
+  position: absolute;
+}
+.joinButton {
+  top: 646px;
+  left: 826px;
+}
+.frameDiv {
+  top: 247px;
+  left: 397px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1089px;
+  height: 875px;
+  overflow: hidden;
+  font-size: 64px;
+  font-family: Inder;
+}
+.navDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 151px;
+}
+.heroIcon {
+  position: absolute;
+  top: 188px;
+  left: 715px;
+  width: 685px;
+  height: 669px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.pensilDiv {
+  position: absolute;
+  top: 37px;
+  left: 131px;
+  font-size: 28px;
+  display: inline-block;
+  width: 91px;
+  height: 32px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 7.31%;
+  width: 13.05%;
+  top: 4.25%;
+  right: 71.55%;
+  bottom: 88.44%;
+  left: 15.41%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.onePlatformForAllYourComm {
+  position: absolute;
+  top: 83px;
+  left: 131px;
+  font-size: 12px;
+  color: #4b5563;
+  display: inline-block;
+  width: 134px;
+  height: 36px;
+}
+.rectangleDiv1,
+.rectangleDiv2 {
+  position: absolute;
+  top: 166px;
+  left: 55px;
+  background-color: #dbeafe;
+  width: 292px;
+  height: 50px;
+}
+.rectangleDiv2 {
+  top: 230px;
+  background-color: #fff;
+}
+.dashboardDiv,
+.groupsDiv {
+  position: absolute;
+  top: 179px;
+  left: 107px;
+  display: inline-block;
+  width: 129px;
+  height: 18px;
+}
+.groupsDiv {
+  top: 240px;
+  width: 91px;
+  height: 30px;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 294px;
+  left: 52px;
+  background-color: #fff;
+  width: 292px;
+  height: 50px;
+}
+.chatsDiv {
+  position: absolute;
+  top: 307px;
+  left: 107px;
+  display: inline-block;
+  width: 141px;
+  height: 24px;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 358px;
+  left: 52px;
+  background-color: #fff;
+  width: 292px;
+  height: 50px;
+}
+.settingsDiv {
+  top: 370px;
+  left: 107px;
+  display: inline-block;
+  width: 81px;
+  height: 25px;
+}
+.settingsDiv,
+.sidebarDiv,
+.vectorIcon1 {
+  position: absolute;
+}
+.vectorIcon1 {
+  top: 447.5px;
+  left: 40px;
+  width: 317px;
+  height: 4px;
+}
+.sidebarDiv {
+  height: 84.96%;
+  width: 24.79%;
+  top: 14.75%;
+  right: 75.21%;
+  bottom: 0.29%;
+  left: 0;
+  overflow: hidden;
+  font-size: 20px;
+}
+.chatPlusDuotoneLineIcon,
+.settingAltLineLightIcon {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+}
+.settingAltLineLightIcon {
+  top: 325px;
+  left: 64px;
+}
+.chatPlusDuotoneLineIcon {
+  top: 458px;
+  left: 65px;
+}
+.atomLightIcon {
+  position: absolute;
+}
+.settingLineLightIcon {
+  position: absolute;
+  top: 517.5px;
+  left: 66.92px;
+  width: 32.17px;
+  height: 32.17px;
+}
+.atomLightIcon {
+  top: 389px;
+  left: 64px;
+  width: 34px;
+  height: 34px;
+}
+.buttonTextAndIcon {
+  position: absolute;
+  top: 682px;
+  left: 86px;
+}
+.buttonContainedText,
+.vectorIcon2 {
+  position: absolute;
+  top: 762px;
+  left: 86px;
+}
+.vectorIcon2 {
+  top: 247px;
+  left: 374px;
+  width: 3px;
+  height: 651px;
+}
+.desktop1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 28px;
+  color: #000;
+  font-family: Inter;
+}
